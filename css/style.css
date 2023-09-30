@@ -84,3 +84,111 @@ a:hover {
     width: 95%;
   }
 }
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2; 
+  color: #333; 
+}
+
+header {
+  text-align: center;
+  background-color: #ff6600; /* Set your desired header background color */
+  color: #fff; /* Set your desired header text color */
+  padding: 20px;
+}
+
+h1 {
+  font-size: 36px; /* Set your desired heading font size */
+}
+
+h2 {
+  font-size: 24px; /* Set your desired sub-heading font size */
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 24px;
+  color: #333; 
+}
+
+/* Apply some basic styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2; /* Set your desired background color */
+  color: #333; /* Set your desired text color */
+}
+
+header {
+  text-align: center;
+  background-color: #ff6600; /* Set your desired header background color */
+  color: #fff; /* Set your desired header text color */
+  padding: 20px;
+  background: linear-gradient(to bottom, #ffcc00, #ff6600);
+}
+
+h1 {
+  font-size: 36px; /* Set your desired heading font size */
+}
+
+h2 {
+  font-size: 24px; /* Set your desired sub-heading font size */
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 24px;
+  color: #333; 
+}
+
+h4 {
+  font-size: 18px;
+  color: #666; 
+}
+
+h5 {
+  font-size: 16px;
+  color: #777; 
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+.text {
+  color: red;
+}
+
